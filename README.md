@@ -1,6 +1,5 @@
-# Linear-Regression-Project
+# E-Commerce Customer Analysis & Predictive Modeling
 
-## 🔍 Predicting Ad Clicks Using Machine Learning
-_____
+Welcome to the E-Commerce Customer Analysis & Predictive Modeling project! 🚀 This project explores customer behavior through data visualization and predictive modeling, helping us understand what drives customer spending.
 
-This project applies Logistic Regression to predict whether an internet user will click on an advertisement. By analyzing key user behavior metrics like daily time spent on a site, age, area income, and internet usage, we develop a predictive model that provides valuable insights for targeted advertising strategies.
+## Exploratory Data Analysis (EDA)
