@@ -118,6 +118,3 @@ Example Results:
 * Positive coefficient → direct relationship
 * Negative coefficient → inverse relationship
 
-
-
-⭐ Don’t forget to star the repository if you like it!
