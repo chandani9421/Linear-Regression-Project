@@ -109,12 +109,3 @@ Example Results:
 * Prediction errors are relatively small
 * No strong impact of outliers (MAE ≈ RMSE)
 * Linear relationship exists between features and target
-
----
-
-## 📊 Model Interpretation
-
-* Coefficients indicate how features influence the target
-* Positive coefficient → direct relationship
-* Negative coefficient → inverse relationship
-
