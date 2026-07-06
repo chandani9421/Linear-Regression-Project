@@ -1,6 +1,6 @@
 # 📈 Linear Regression Project
 
-## 📌 Project Overview.............
+## 📌 Project Overview
 
 This project demonstrates the implementation of a **Linear Regression model** to predict a continuous target variable based on input features.
 
